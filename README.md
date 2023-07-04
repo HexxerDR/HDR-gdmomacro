@@ -11,24 +11,24 @@ Macro recorder does work inside of the game, you need a digimon.json inside the 
 Simply choose what digimon you want to target after modifying the digimon.json file and then choose the color that its name uses (based on level)
 
 Issues:
--Sometimes get stuck
--Sometimes doesnt recognize the mob you are searching for if it has a (leader) prefix
--Has a bit of a delay that stems from opencv operations/ocr
+- Sometimes get stuck  
+- Sometimes doesnt recognize the mob you are searching for if it has a (leader) prefix  
+- Has a bit of a delay that stems from opencv operations/ocr  
 
 Modules used:
--pytesseract
--numpy
--scipy
--PySimpleGui
--json
--pyautogui
--os
--sys
--cv2
--threading
--itertools
--time
--keyboard
+- pytesseract  
+- numpy  
+- scipy  
+- PySimpleGui  
+- json  
+- pyautogui  
+- os  
+- sys  
+- cv2  
+- threading  
+- itertools  
+- time  
+- keyboard  
 
 
 I am not responsible for any bans/kicks/warns etc inside GDMO or any other MMO, for using this "macro recorder", or any modified version of it.
